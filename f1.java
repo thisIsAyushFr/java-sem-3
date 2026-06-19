@@ -5,6 +5,6 @@ public class f1{
 
         int s=n1+n2;
 
-        System.out.println("Sum is" + s);
+        System.out.println("Sum is " + s);
     }
 }
