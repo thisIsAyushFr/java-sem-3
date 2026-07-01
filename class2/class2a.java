@@ -19,5 +19,7 @@ public class class2a {
             }
             System.out.println();
         }
+
+    
     }
 }
