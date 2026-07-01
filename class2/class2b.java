@@ -1,3 +1,5 @@
+package class2;
+
 public class class2b {
     public static void main(String[] args){
         int n=6;
