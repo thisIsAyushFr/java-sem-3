@@ -8,9 +8,9 @@ public class function {
         Scanner ob = new Scanner(System.in);
         System.out.println("enter a num");
         int a = ob.nextInt();
-        System.out.println("output before function " + a);
+        System.out.println("output before function" + a);
         a=test(a);
-        System.out.println("output after function " + a);
+        System.out.println("output after function" + a);
         ob.close();
     }
 }
